@@ -8,9 +8,8 @@ The proposal for this work is a web application that aims to help in the managem
 
 ## Repository organization
 
-- Visual Studio code configuration in the [.vscode folder](https://github.com/INF2021-PW-G04/oficinas/tree/master/.vscode)
-- HTML page in the [public folder](https://github.com/INF2021-PW-G04/oficinas/tree/master/public)
-- Source code is in the [src folder](https://github.com/INF2021-PW-G04/oficinas/tree/master/src)
+- API source is in the [src folder](https://github.com/INF2021-PW-G04/React_APP_Oficinas/tree/main/LB4_API/src)
+- REACT App source is in the [src folder](https://github.com/INF2021-PW-G04/React_APP_Oficinas/tree/main/m2_app_react/src)
 
 ## Gallery
 
@@ -36,17 +35,17 @@ The proposal for this work is a web application that aims to help in the managem
 ## Report
 
 ### Project Tasks
-- Tasks: [AvaliacaoContinua_M2_TrabalhoPratico_parte1](https://github.com/INF2021-PW-G04/oficinas/blob/main/AvaliacaoContinua_M2_trabalhoPratico_parte1.pdf)
+- Tasks 1: [AvaliacaoContinua_M2_TrabalhoPratico_parte1](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/AvaliacaoContinua_M2_trabalhoPratico_parte1.pdf)
+- - Tasks 2: [AvaliacaoContinua_M2_TrabalhoPratico_parte2](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/AvaliacaoContinua_M2_trabalhoPratico_parte2%20(4).pdf)
 
 ### Project presentation
-- Theme proposal: [Project presentation](https://github.com/INF2021-PW-G04/oficinas/blob/main/PW04-M2_proposta.pdf)
+- Project report: [Project report](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/Relatorio_M2.pdf)
 
 ### Project database
-- Tables script: [script.db.sql](https://github.com/INF2021-PW-G04/oficinas/blob/main/script_db.sql)
-- Database export: [DB_export_file.sql](https://github.com/INF2021-PW-G04/oficinas/blob/main/DB_export_file.sql)
+- Database export: [DB_export_file.sql](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/DataBase%20-%20MySql/script_db.sql)
 
 ### Postman collection
-- Oficinas collection: [oficinas.postman_collection.json](https://github.com/INF2021-PW-G04/oficinas/blob/main/oficinas.postman_collection.json)
+- Oficinas collection (API): [oficinas.postman_collection.json](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/LB4_API/oficinas.postman_collection.json)
 
 ## Team
 
