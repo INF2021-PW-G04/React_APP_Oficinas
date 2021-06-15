@@ -14,7 +14,6 @@ The proposal for this work is a web application that aims to help in the managem
 
 ## Gallery
 
-No files available at the moment. Please wait for an update.
 ![Class Diagram](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/Diagrama%20de%20classes.PNG "Diagrama de Classes").
 
 
