@@ -36,7 +36,7 @@ The proposal for this work is a web application that aims to help in the managem
 
 ### Project Tasks
 - Tasks 1: [AvaliacaoContinua_M2_TrabalhoPratico_parte1](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/AvaliacaoContinua_M2_trabalhoPratico_parte1.pdf)
-- - Tasks 2: [AvaliacaoContinua_M2_TrabalhoPratico_parte2](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/AvaliacaoContinua_M2_trabalhoPratico_parte2%20(4).pdf)
+- Tasks 2: [AvaliacaoContinua_M2_TrabalhoPratico_parte2](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/AvaliacaoContinua_M2_trabalhoPratico_parte2%20(4).pdf)
 
 ### Project presentation
 - Project report: [Project report](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/Relatorio_M2.pdf)
