@@ -1,6 +1,6 @@
 # Oficinas
 
-Repository to host the project developed for Programação Web (PW), a second year subject at Instituto Superior da Maia - ISMAI. Developed by Group 04: [Eduardo Lopes (036419)](https://github.com/el0pes21), Misael Figueroa (037744), Paulo Teixeira (037655).   
+Repository to host the project developed for Programação Web (PW), a second year subject at Instituto Superior da Maia - ISMAI. Developed by Group 04: [Eduardo Lopes (036419)](https://github.com/el0pes21), [Misael Figueroa (037744)](https://github.com/MisaelFonsecaFigueroa), [Paulo Teixeira (037655)](https://github.com/Pmct17).   
 
 ## Description 
 
