@@ -27,10 +27,10 @@ The proposal for this work is a web application that aims to help in the managem
 
 ## Frameworks and Libraries
 
--NodeJS
--ReactJS
--React-admin
--Loopback
+- NodeJS
+- ReactJS
+- React-admin
+- Loopback
 
 ## Report
 
