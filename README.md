@@ -40,6 +40,7 @@ The proposal for this work is a web application that aims to help in the managem
 
 ### Project presentation
 - Project report: [Project report](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/Relatorio_M2.pdf)
+- PowerPoin presentation: [Project presentation](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/PW04-M2.pptx)
 
 ### Project database
 - Database export: [DB_export_file.sql](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/DataBase%20-%20MySql/script_db.sql)
