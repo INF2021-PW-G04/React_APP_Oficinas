@@ -14,7 +14,7 @@ The proposal for this work is a web application that aims to help in the managem
 ## Gallery
 
 - Class Diagram
-![Class Diagram](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/Diagrama%20de%20classes.PNG "Diagrama de Classes").
+![Class Diagram](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/Diagrama%20de%20classes.PNG "Diagrama de Classes")
 
 - HTML Validation
 ![HTML Validation](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/Validation%20HTML%20-%20CSS/Relat%C3%B3rio_HTML_val.PNG "Validação do HTML")
