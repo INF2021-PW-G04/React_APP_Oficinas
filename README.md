@@ -52,6 +52,9 @@ The proposal for this work is a web application that aims to help in the managem
 ### Project database
 - Database export: [DB_export_file.sql](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/DataBase%20-%20MySql/script_db.sql)
 
+### Project installation
+- Instructions: [HowToRunApplication](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/HowToRunApplication.pdf)
+
 ### Postman collection
 - Oficinas collection (API): [oficinas.postman_collection.json](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/LB4_API/oficinas.postman_collection.json)
 
