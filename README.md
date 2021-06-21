@@ -56,7 +56,7 @@ The proposal for this work is a web application that aims to help in the managem
 - Instructions: [HowToRunApplication](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/HowToRunApplication.pdf)
 
 ### Postman collection
-- Oficinas collection (API): [oficinas.postman_collection.json](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/LB4_API/oficinas.postman_collection.json)
+- Oficinas collection (API): [oficinas.postman_collection.json](https://github.com/INF2021-PW-G04/React_APP_Oficinas/blob/main/lb4-oficinas.postman_collection.json)
 
 ## Team
 
